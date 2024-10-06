@@ -2,7 +2,8 @@
 # Uncover the Role of Greenhouse Gases in Your Neighborhood!
 
 
-This project Greenhouse Gases In this project, we have processed the data and plotted some graphs. using pandas library
+Uncover the Role of Greenhouse Gases in Your Neighborhood! Is the project proposed by NASA Space Apps challenge for identify and make effective decision related to pollution 
+In this project we have tried to make web-app for policymaker and decision makers to understand and decide that what steps to taken for controlling pollution
 
 
 
